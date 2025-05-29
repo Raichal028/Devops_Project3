@@ -1,1 +1,2 @@
-echo Hello from script 
+@echo off
+echo Hello from DevOps project feature!
